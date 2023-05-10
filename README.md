@@ -1,4 +1,4 @@
-# Database_System_Sbertech
+# Redis
 
 Устанавливаем Redis с помощью pip install redis. Проверяем, что все работает (redis-cli ping ---> PONG, все работает) и начинаем!
 
