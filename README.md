@@ -104,6 +104,11 @@ transactor.Transact(db =>
 ## Возможно ли применить термины Data mining, Data Warehousing, OLAP в СУБД?
 StarcounterDB предоставляет набор функций OLAP таких как агрегаты, сводные таблицы и анализ данных в режиме реального времени. Думаю, что Data Mining также можно применить к нашей базе данных, так как извлечение данных и их поиск вполне себе можно реализовать на языках программирования, на которых основана StarcounterDB(C#, C++, C)
 
+## Технологии Starcounter используют:
+
+![image](https://github.com/KhaytinaAnna/Database_System_Sbertech/assets/71896956/830088c2-7068-4547-96c3-4ee7978f877e)
+
+
 ## Как продолжить самостоятельное изучение языка запросов с помощью демобазы
 Github демобазы: https://github.com/Starcounter/Constructor
 
